@@ -1,0 +1,121 @@
+body {
+  background-color: #CCC;
+  margin-top: 60px;
+}
+
+[class*="col-"], footer {
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+#imgmap {
+  width: 105%;
+  height:105%;
+  margin-top: -20px;
+}
+
+.button_deposit {
+  background: red;
+}
+
+.logo {
+  width:40px;
+  padding-top: 5px;
+}
+
+.btnsup {
+  margin-top: -20px;
+}
+
+.fichesup {
+  margin-top: -0px;
+}
+
+.ownerjpg {
+  position: absolute;
+  height:65px;
+  width: 65px;
+  margin-top: -30px;
+  margin-left: -70px;
+  border: 2px solid white;
+}
+
+.margin_price {
+  margin-left: 10px;
+  margin-right: -20px;
+}
+
+.homelarge {
+  margin-bottom: -10%;
+}
+
+.desc1 {
+  font-size: 14px;
+  color: grey;
+  padding-left: 5px;
+}
+
+.desc2 {
+  font-size: 12px;
+  color: grey;
+  padding-left: 5px;
+}
+
+.pos_prix {
+  font-size: 16px;
+  margin-top: -40px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+.prixbox {
+  color: lightgrey;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgba(100, 100, 100, 0.7);
+  border-radius: 3px;
+}
+
+.name {
+  margin-left: -140px;
+}
+
+.avatar {
+  width: 15%;
+}
+
+.deposit {
+  background-color: #D06E6E;
+  font-size: 14px;
+  color: lightgrey;
+  cursor: hand;
+}
+
+.navbar1 {
+  margin-top: -20px;
+}
+
+.navbar2 {
+  margin-top: -20px;
+  margin-left: -25px;
+}
+
+.product {
+  border-radius: 5px;
+}
+
+.article {
+  margin-top: -200px;
+}
+
+.arrange {
+  position: fixed;
+  padding-left: 0;
+  padding-right: 0;
+}
